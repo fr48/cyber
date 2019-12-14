@@ -1,0 +1,26 @@
+American consumers want to hve it both ways. They no longer trust their institutions--the government, social media sites holding their information, cellular providers that provide their phone services, and financial services companies--all the while they aren't doing a very good job with security themselves.
+
+Data: Americans and Cybersecurity survey
+Source: Pew Research Center for Internet & Technology
+Date: March - May 2016
+https://www.pewresearch.org/internet/dataset/march-may-2016-cybersecurity/
+
+
+Images/charts:
+* Most Americans have been affected by a data breach
++ What kind of incidents have they been affected by?
++ Do they trust some entities more than others?
+
+
+* Do consumers punish companies after a data breach
++compare the stock prices after a breach -- did it drop? how long did it take to come back to the price the day before a breach?
++line graph, plotting the up-down of stock price for 10 companies
+--> can it be small multiples, showing the different companies separately?
+
+* Common security measures used (or not used)
++ Password behavior
++ device
+--> this may be good for scrollytelling
+
+
+

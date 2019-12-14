@@ -1,0 +1,104 @@
+Have I clicked on a link in an email message from an unknown sender while at work?
+Yes+ 29
+once 21
+No 51
+
+
+clicked on a link in
+email 74
+social media 34
+text 29
+app notifications 22
+video 16
+other 1
+
+I am more likely to open an attachment or click on a link from an unknown source on a work device vs a personal one.
+Yes 44
+No 56
+
+Have you ever had  your personal or financial data compromised?
+	world	US	uk	au	jp
+yes, +	26	36	30	28	9
+once	22	26	25	28	10
+no	52	38	46	44	81
+
+What did you do after you were breached? (world)
+Other 5
+nothing 3
+informed legal 29
+changed passwords 65
+credit protection 34
+credit alerts 43
+new card 48
+
+Change passwords: 
+No 32 (US)
+No 35 (world)
+Do Nothing 13 (JP)
+Inform Legal 29 (world)
+
+How many online accounts with passwords do you have
+more than 15 34 (world)
+(one third of those have 30+)
+
+how many emails do you get every day?
+	world	us	uk	au	jp
+<15	31	27	23	25	51
+15-34	34	34	37	39	26
+35+	35	40	40	36	24
+
+Office workers receive an agerage of 52 emails every work day
+
+on a typical day, you click on a link:
+	work	home
+email	85	70
+social media 48	62
+search	64	59
+text	49	52
+news	36	43	
+chat	30	38
+filesharing 34	20
+other	4	5
+
+Nearly 4 in 5 office workers 79 percent think they can distinguise a phishing message from a genuine one
+	us	uk	au	jp
+strong agree 38	32	36	8
+agree	49	57	55	43
+disagree 11	9	8	35
+strong disagree 3 2	1	15
+
+"which of the following do oyu believe are ways that hackers conduct phishing attacks?
+email 81
+social media 60
+sms 59
+phone 43
+app notifications 40
+post mail 34
+video chat 22
+other 5
+
+fewer than 43 percent identify phone calls as possible phishing
+ 
+what do you do before you click on a link
+never check 8
+check email 66
+spelling 52
+check links 43
+message tone 38
+sender signature 44
+
+39 percent of people who received a phishing email did not report it
+
+when would i look at the message?
+An email from my boss 60%
+A nice message from a family member or friend 55%
+A request from my bank to confirm a transaction 31%
+A discount offer from a store 28%
+A link to a video from a friend or family member 27%
+A prompt for me to verify/authenticate my account 25%
+A notification about a fine 19%
+Instructions to confirm my billing address 18%
+A subpoena or legal request 16%
+A link to a funny meme 13%
+A message claiming to contain nudes 9%
+F
