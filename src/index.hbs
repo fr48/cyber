@@ -12,15 +12,15 @@ author:
     twitterHandle: "@fahmiwrite"
 analytics": ""
 ---
-<!-- 
-  This line means, use default.hbs layout from src/html/layouts/
--->
 
 {{!< default}}
 
 <div class="story-body">
 <a href="wireframe.hbs">Wireframe</a>
 </div>
+
+{{> story/calvinday }}
+
 
 <div class="story-body">
   <p class="body-text">Putting together the story.</p>
@@ -30,10 +30,20 @@ analytics": ""
   <li>Reference what Pew said about 2fa</li>
   <li>Google said no one is using 2fa</li>
   <li>Why 2fa is powerful</li>
+  <li>Can you detect issues? need more images</li>
+  <li>we are going to do a game. image from the study?</li>
+  <li></li>
   </ul>
   <p class="body-text">Reusing passwords across multiple account-based services is common. According to a 2018 study of nearly 30 million users and their passwords, password reuse and modifications were common for 52% of users. The same study also found that 30% of the modified passwords and all the reused passwords can be cracked within just 10 guesses. This behavior puts users at risk of being victims of a breach replay attack. Once a threat actor gets hold of spilled credentials or credentials in the wild, they can try to execute a breach replay attack. In this attack, the actor tries out the same credentials on different service accounts to see if there is a match.</p>
 </div>
 
 <div class="story-body">
-    <p class="note">All the data files and code used for analysis (Jupyter Notebook) can be found at the <a href="https://github.com/fr48/cyber">project's repository on GitHub</a>.</p>
+  <p class="body-text">Related: 70 percent of responders on the Pew Research said they would consider doing business with a company over
+    security and privacy concerns. That suggests that a company with a breach would find it harder to convince customers to come back, 
+    except that doesn't seem to be the case. See how a <a href="trust-who.hbs">breach could impact a company's stock price.</a> 
+  </p>
+    <p class="note">All the data files, reports, and code used for analysis (Jupyter Notebook) can be found at the <a href="https://github.com/fr48/cyber">project's repository on GitHub</a>.</p>
 </div>
+
+<script src="scripts/scrollytelling.js"></script>
+<link rel="stylesheet" type="text/css" href="styles/scrollytelling.css">
