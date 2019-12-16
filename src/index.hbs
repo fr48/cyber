@@ -17,7 +17,14 @@ analytics": ""
 {{!< default}}
 
 <div class="story-body">
-<p>Intro, password reuse , 2fa </p>
+<p>It's fast becoming old news, with data breach after data breach. Cyber-criminals are tricking users into giving up their passwords via phishing. Companies aren't 
+  protecting the information they collect from users, and criminals are taking advantage of the lax protections to steal the information. According to the latest figures
+  from Pew Research, most people have been affected by at least one kind of data compromise.
+  </p>
+  <p><img src="images/compromised.png"></p>
+  <p>It is very easy to get into victim-blaming, that the user should have done something differently. Attackers spend time crafting very specific messages designed to 
+    trick their victims. Blaming the user for falling for an attack ignores the fact that they are just human.
+  </p>
 </div>
 
 {{> story/calvinday }}
@@ -32,14 +39,14 @@ analytics": ""
     attacks (the messages are customized to the victim). The figure for targeted attacks get better with other methods, such as on-device 
     prompts, and hardware keys.
   </p>
+  <iframe title="Two-Factor Authentication Blocks Attacks" aria-label="Grouped Column Chart" id="datawrapper-chart-jrGZi" src="//datawrapper.dwcdn.net/jrGZi/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
   <p>Another good defense is not using the same password across sites. A team of researchers out of Virginia Tech analyzed the passwords for nearly 30 million users and found that 52 percent had reused the password at least once.</p>
 </div>
+
+  {{> story/trust-section }}
+
 <div class="story-body">
-  <p class="body-text"><em>Related: Who Do You Trust?</em>
-  <p class="body-text">70 percent of responders on the Pew Research said they would consider doing business with a company over
-    security and privacy concerns. That suggests that a company with a breach would find it harder to convince customers to come back, 
-    except that doesn't seem to be the case. See how a <a href="trust-who.hbs">breach could impact a company's stock price.</a> 
-  </p>
+
     <p class="note">All the data files, reports, and code used for analysis (Jupyter Notebook) can be found at the <a href="https://github.com/fr48/cyber">project's repository on GitHub</a>.</p>
 </div>
 
