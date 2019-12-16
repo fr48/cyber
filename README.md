@@ -1,8 +1,6 @@
-# Americans' View of Cybersecurity
+# Phishing Attacks are Still the Biggest Threats
 
-This project digs into the latest _Internet & Technology_ research from the **Pew Research Center**. The idea was to look at American perceptions of cybersecurity and privacy. 
-
-American consumers don't trust the organizations--government or companies--to keep information about them safe, and they also think that data collection is inevitable. However, there is some contradiction. Not only do Americans not trust government and companies to protect their data online from thieves, but they don't do a very good job with protecting their data, either. 
+This project digs into the latest _Internet & Technology_ research from the **Pew Research Center**. The idea was to look at American perceptions of cybersecurity and privacy and compare the results of what users said about passwords and security with what industry reports say about what user security.
 
 Privacy-related statistics are pulled from the _Americans and Privacy: Concerned, Confused and Feeling Lack of Control over Their Personal Information_ report.
 
@@ -22,28 +20,28 @@ I looked at how Americans handle their own data protection by analyzing the data
 
 The code notebook (Jupyter) is annotated to walk through the different analysis that was done, and decisions that were made during the course of the analysis about how to use the data are documented through code comments. The clean data used for the visualizations are provided as .csv files.
 
-Codebook is available in the directory.
+Codebook (topline.pdf) is available in the analysis\data\ directory. (topline)
 
 ## Visualizations
 
-The visualizations will eventually be visible at the project website (https://fr48.github.io/cybersecurity):
+The project is available at (https://fr48.github.io/cyber)
 
-Images (still under consideration. rough sketches are in the directory):
+* Password security (security measures they should be using, what's up with passwords)
 
-* Most Americans have been affected by a data breach, and the type of incidents they have been affected by.
+* Do consumers punish companies after a breach (as measured by stock price)?
 
-* Perception of what they trust, or don't trust.
+Wireframes are available at https://fr48.github.io/cyber/wireframe.html
 
-* Common security measures they should be using/not using (passwords, device lock, etc)
+## Interactive:
 
-* Do consumers punish companies after a breach (measured by stock price). Could be small multiples?
+* How well do you know security: a text-based game that tests you on the security questions, as well as shows stats on how others did. (TBD)
 
-Interactive:
+* Calvin is having a bad day: What different scams look like and why people for them, with statistics for different scenarios.
 
-* _Time permitting:_ using a game to walk through security decisions
+* Do data breaches impact stock prices?: Chart looking at different stock prices for different companies.
 
-* Scrollytelling to talk about perceptions of privacy and data collection
+## Tools Used:
 
-Tools used for analysis: python, regex, pandas
+* For analysis: python, regex, pandas
 
-Tools used for visualizations:
+* For visualizations: DataWrapper, Illustrator, ai2html, matplotlib/seaborn
